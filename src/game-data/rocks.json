@@ -1,0 +1,245 @@
+{
+  "rocks":
+  [
+  {
+    "id": 0,
+  "position": [
+    1870,
+    -919
+  ],
+    "visible": true
+  },
+  {
+    "id": 1,
+    "position": [
+      -1458,
+      414
+    ],
+    "visible": true
+  },
+  {
+    "id": 2,
+    "position": [
+      -1407,
+      110
+    ],
+    "visible": true
+  },
+  {
+    "id": 3,
+    "position": [
+      3756,
+      -716
+    ],
+    "visible": true
+  },
+  {
+    "id": 4,
+    "position": [
+      -3750,
+      -629
+    ],
+    "visible": true
+  },
+  {
+    "id": 5,
+    "position": [
+      -3005,
+      -655
+    ],
+    "visible": true
+  },
+  {
+    "id": 6,
+    "position": [
+      2131,
+      500
+    ],
+    "visible": true
+  },
+  {
+    "id": 7,
+    "position": [
+      2627,
+      -133
+    ],
+    "visible": true
+  },
+  {
+    "id": 8,
+    "position": [
+      390,
+      730
+    ],
+    "visible": true
+  },
+  {
+    "id": 9,
+    "position": [
+      -2270,
+      -107
+    ],
+    "visible": true
+  },
+  {
+    "id": 10,
+    "position": [
+      -2990,
+      500
+    ],
+    "visible": true
+  },
+  {
+    "id": 11,
+    "position": [
+      -2652,
+      889
+    ],
+    "visible": true
+  },
+  {
+    "id": 12,
+    "position": [
+      1630,
+      -823
+    ],
+    "visible": true
+  },
+  {
+    "id": 13,
+    "position": [
+      -1438,
+      622
+    ],
+    "visible": true
+  },
+  {
+    "id": 14,
+    "position": [
+      3073,
+      880
+    ],
+    "visible": true
+  },
+  {
+    "id": 15,
+    "position": [
+      -1424,
+      -255
+    ],
+    "visible": true
+  },
+  {
+    "id": 16,
+    "position": [
+      -2049,
+      -34
+    ],
+    "visible": true
+  },
+  {
+    "id": 17,
+    "position": [
+      -1525,
+      299
+    ],
+    "visible": true
+  },
+  {
+    "id": 18,
+    "position": [
+      2121,
+      -187
+    ],
+    "visible": true
+  },
+  {
+    "id": 19,
+    "position": [
+      3723,
+      954
+    ],
+    "visible": true
+  },
+  {
+    "id": 20,
+    "position": [
+      3321,
+      -408
+    ],
+    "visible": true
+  },
+  {
+    "id": 21,
+    "position": [
+      -3281,
+      853
+    ],
+    "visible": true
+  },
+  {
+    "id": 22,
+    "position": [
+      -3282,
+      464
+    ],
+    "visible": true
+  },
+  {
+    "id": 23,
+    "position": [
+      -3883,
+      2
+    ],
+    "visible": true
+  },
+  {
+    "id": 24,
+    "position": [
+      2776,
+      506
+    ],
+    "visible": true
+  },
+  {
+    "id": 25,
+    "position": [
+      380,
+      -258
+    ],
+    "visible": true
+  },
+  {
+    "id": 26,
+    "position": [
+      -1471,
+      -97
+    ],
+    "visible": true
+  },
+  {
+    "id": 27,
+    "position": [
+      -896,
+      -47
+    ],
+    "visible": true
+  },
+  {
+    "id": 28,
+    "position": [
+      2596,
+      -325
+    ],
+    "visible": true
+  },
+  {
+    "id": 29,
+    "position": [
+      1438,
+      684
+    ],
+    "visible": true
+  }
+]
+}
