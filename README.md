@@ -11,7 +11,15 @@ Node v22.9.0, React 18.0.0, Floating UI React 0.26.28
 With node package manager v10.8.3
 
 `cd littleforest`
+
 `npm install`
 
 And to run on http://localhost:3000
+
 `npm start`
+
+# Useage
+
+Click to move around the map, you can use the minimap to go someplace quickly!
+
+![screenshot.png](/screenshot.png?raw=true "LittleForest App Screenshot")
